@@ -1,0 +1,314 @@
+Total iteraciones: 86
+Population size: 0.000000
+Initial temperature: 57118.577291
+Final temperature: 0.000011
+Alpha: 0.950000
+Total iteraciones: 86
+Population size: 0.000000
+Initial temperature: 57118.577291
+Final temperature: 0.000011
+Alpha: 0.950000
+Total iteraciones: 86
+Population size: 0.000000
+Initial temperature: 57118.577291
+Final temperature: 0.000011
+Alpha: 0.950000
+Total iteraciones: 86
+Population size: 0.000000
+Initial temperature: 57118.577291
+Final temperature: 0.000011
+Alpha: 0.950000
+Total iteraciones: 86
+Population size: 0.000000
+Initial temperature: 57118.577291
+Final temperature: 0.000011
+Alpha: 0.950000
+Total iteraciones: 86
+Population size: 0.000000
+Initial temperature: 57118.577291
+Final temperature: 0.000011
+Alpha: 0.950000
+Total iteraciones: 86
+Population size: 0.000000
+Initial temperature: 57118.577291
+Final temperature: 0.000011
+Alpha: 0.950000
+Total iteraciones: 86
+Population size: 0.000000
+Initial temperature: 57118.577291
+Final temperature: 0.000011
+Alpha: 0.950000
+Total iteraciones: 86
+Population size: 0.000000
+Initial temperature: 57118.577291
+Final temperature: 0.000011
+Alpha: 0.950000
+Total iteraciones: 86
+Population size: 0.000000
+Initial temperature: 57118.577291
+Final temperature: 0.000011
+Alpha: 0.950000
+A = 2.367090 ; B= 0.000890
+A = 2.367090 ; B= 0.000890
+A = 2.367090 ; B= 0.000890
+Phi: 0.300754Phi: -0.152744A = 2.367090
+ B= 0.000890
+A = 2.367090 ; B= 0.000890
+Phi: 0.011283Phi: -0.336961A = 2.367090
+ B= 0.000890
+Phi: 0.855729Phi: -0.814940A = 2.367090
+ B= 0.000890
+Phi: -0.429297Phi: -0.991926A = 2.367090
+ B= 0.000890
+A = 2.367090 ; B= 0.000890
+Phi: -0.016770Phi: -0.125580A = 2.367090
+ B= 0.000890
+A = 2.367090 ; B= 0.000890
+Phi: -0.295972Phi: -0.295549A = 2.367090
+ B= 0.000890
+A = 2.367090 ; B= 0.000890
+Phi: 0.425332Phi: -0.467754A = 2.367090
+ B= 0.000890
+A = 2.367090 ; B= 0.000890
+Phi: -0.851970Phi: -0.633026A = 2.367090
+ B= 0.000890
+A = 2.367090 ; B= 0.000890
+Phi: 0.727306Phi: -0.510564A = 2.367090
+ B= 0.000890
+A = 2.367090 ; B= 0.000890
+Phi: -0.553518Phi: 0.323193A = 2.367090
+ B= 0.000890
+693.437680 > 0.000011
+ 693.437680 > 0.000011
+ 693.437680 > 0.000011
+ 693.437680 > 0.000011
+ 693.437680 > 0.000011
+ 693.437680 > 0.000011
+ 693.437680 > 0.000011
+ 693.437680 > 0.000011
+ 693.437680 > 0.000011
+ 693.437680 > 0.000011
+ 8.418554 > 0.000011
+ 8.418554 > 0.000011
+ 8.418554 > 0.000011
+ 8.418554 > 0.000011
+ 8.418554 > 0.000011
+ 8.418554 > 0.000011
+ 8.418554 > 0.000011
+ 8.418554 > 0.000011
+ 8.418554 > 0.000011
+ 8.418554 > 0.000011
+ 0.102204 > 0.000011
+ 0.102204 > 0.000011
+ 0.102204 > 0.000011
+ 0.102204 > 0.000011
+ 0.102204 > 0.000011
+ 0.102204 > 0.000011
+ 0.102204 > 0.000011
+ 0.102204 > 0.000011
+ 0.102204 > 0.000011
+ 0.102204 > 0.000011
+ 0.001241 > 0.000011
+ 0.001241 > 0.000011
+ 0.001241 > 0.000011
+ 0.001241 > 0.000011
+ 0.001241 > 0.000011
+ 0.001241 > 0.000011
+ 0.001241 > 0.000011
+ 0.001241 > 0.000011
+ 0.001241 > 0.000011
+ 0.001241 > 0.000011
+ 0.000015 > 0.000011
+ 0.000015 > 0.000011
+ 0.000015 > 0.000011
+ 0.000015 > 0.000011
+ 0.000015 > 0.000011
+ 0.000015 > 0.000011
+ 0.000015 > 0.000011
+ 0.000015 > 0.000011
+ 0.000015 > 0.000011
+ 0.000015 > 0.000011
+ 0.000000 > 0.000011
+ 
+
+Best found solution after temperature loop:
+MAPE: 0.329686  SMAPE 0.329720 
+NextError: 0.211490
+
+Final Best contadorG: 1546
+Best found solution during algorithm:
+MAPE: 0.329686  SMAPE 0.329720 DA 12.000000
+Solution: 
+BESTIDX: 85
+Alpha 0.000000 Beta 0.000004
+0.000000	0.000004	-0.711450	0.009442	 | MAPE: 2.050951 | SMAPE: 2.069668 | DA: 50.000000 | Error: 0.277083 | Time: 273.839996secs
+Time: 273.839996
+
+0.000000 > 0.000011
+ 
+
+Best found solution after temperature loop:
+MAPE: 0.242631  SMAPE 0.243136 
+NextError: 0.155582
+
+Final Best contadorG: 1546
+Best found solution during algorithm:
+MAPE: 0.242631  SMAPE 0.243136 DA 12.000000
+Solution: 
+BESTIDX: 4
+Alpha 0.000000 Beta 0.000099
+0.000000	0.000099	1.000000	0.009093	 | MAPE: 2.072681 | SMAPE: 2.080465 | DA: 50.000000 | Error: 0.062856 | Time: 274.769989secs
+Time: 274.769989
+
+  Elapsed wall clock time = 274.953985 seconds.
+0.000000 > 0.000011
+ 
+
+Best found solution after temperature loop:
+MAPE: 0.234160  SMAPE 0.234589 
+NextError: 0.195562
+
+Final Best contadorG: 1546
+Best found solution during algorithm:
+MAPE: 0.234160  SMAPE 0.234589 DA 12.000000
+Solution: 
+BESTIDX: 20
+Alpha 0.000000 Beta 0.000015
+0.000000	0.000015	0.396953	0.009222	 | MAPE: 2.059812 | SMAPE: 2.070136 | DA: 50.000000 | Error: 0.112315 | Time: 275.660004secs
+Time: 275.660004
+
+  Elapsed wall clock time = 275.844923 seconds.
+0.000000 > 0.000011
+ 
+
+Best found solution after temperature loop:
+MAPE: 0.275488  SMAPE 0.276101 
+NextError: 0.192605
+
+Final Best contadorG: 1546
+Best found solution during algorithm:
+MAPE: 0.275488  SMAPE 0.276101 DA 12.000000
+Solution: 
+BESTIDX: 86
+Alpha 1.134379 Beta 0.000000
+1.134379	0.000000	-0.925107	0.009206	 | MAPE: 2.095821 | SMAPE: 2.119492 | DA: 50.000000 | Error: 0.372143 | Time: 276.750031secs
+Time: 276.750031
+
+  Elapsed wall clock time = 276.931893 seconds.
+0.000000 > 0.000011
+ 
+
+Best found solution after temperature loop:
+MAPE: 0.257504  SMAPE 0.258292 
+NextError: 0.240849
+
+Final Best contadorG: 1546
+Best found solution during algorithm:
+MAPE: 0.257504  SMAPE 0.258292 DA 12.000000
+Solution: 
+BESTIDX: 74
+Alpha 0.000000 Beta 0.000648
+0.000000	0.000648	-0.475224	0.009407	 | MAPE: 2.039549 | SMAPE: 2.053901 | DA: 50.000000 | Error: 0.191415 | Time: 276.809998secs
+Time: 276.809998
+
+  Elapsed wall clock time = 276.994854 seconds.
+0.000000 > 0.000011
+ 
+
+Best found solution after temperature loop:
+MAPE: 0.288732  SMAPE 0.289250 
+NextError: 0.240576
+
+Final Best contadorG: 1546
+Best found solution during algorithm:
+MAPE: 0.288732  SMAPE 0.289250 DA 12.000000
+Solution: 
+BESTIDX: 32
+Alpha 2.875411 Beta 0.000057
+2.875411	0.000057	0.086837	0.008402	 | MAPE: 2.061677 | SMAPE: 2.080440 | DA: 50.000000 | Error: 0.275759 | Time: 277.249969secs
+Time: 277.249969
+
+  Elapsed wall clock time = 277.439282 seconds.
+0.000000 > 0.000011
+ 
+
+Best found solution after temperature loop:
+MAPE: 0.270399  SMAPE 0.270991 
+NextError: 0.211459
+
+Final Best contadorG: 1546
+Best found solution during algorithm:
+MAPE: 0.270399  SMAPE 0.270991 DA 12.000000
+Solution: 
+BESTIDX: 53
+Alpha 0.000000 Beta 0.000000
+0.000000	0.000000	-0.566025	0.009425	 | MAPE: 2.038741 | SMAPE: 2.053734 | DA: 50.000000 | Error: 0.204063 | Time: 277.540009secs
+Time: 277.540009
+
+  Elapsed wall clock time = 277.724077 seconds.
+0.000000 > 0.000011
+ 
+
+Best found solution after temperature loop:
+MAPE: 0.307366  SMAPE 0.307783 
+NextError: 0.190209
+
+Final Best contadorG: 1546
+Best found solution during algorithm:
+MAPE: 0.307366  SMAPE 0.307783 DA 12.000000
+Solution: 
+BESTIDX: 53
+Alpha 0.010607 Beta 0.000366
+0.010607	0.000366	0.359828	0.009194	 | MAPE: 2.043370 | SMAPE: 2.059174 | DA: 50.000000 | Error: 0.219501 | Time: 278.550018secs
+Time: 278.550018
+
+  Elapsed wall clock time = 278.730617 seconds.
+0.000000 > 0.000011
+ 
+
+Best found solution after temperature loop:
+MAPE: 0.242257  SMAPE 0.242761 
+NextError: 0.130746
+
+Final Best contadorG: 1546
+Best found solution during algorithm:
+MAPE: 0.242257  SMAPE 0.242761 DA 12.000000
+Solution: 
+BESTIDX: 37
+Alpha 0.000000 Beta 0.000424
+0.000000	0.000424	-0.006595	0.009289	 | MAPE: 2.043440 | SMAPE: 2.059736 | DA: 50.000000 | Error: 0.229309 | Time: 279.809998secs
+Time: 279.809998
+
+  Elapsed wall clock time = 279.992614 seconds.
+0.000000 > 0.000011
+ 
+
+Best found solution after temperature loop:
+MAPE: 0.329811  SMAPE 0.330940 
+NextError: 0.110842
+
+Final Best contadorG: 1546
+Best found solution during algorithm:
+MAPE: 0.329811  SMAPE 0.330940 DA 12.000000
+Solution: 
+BESTIDX: 67
+Alpha 0.000000 Beta 0.000024
+0.000000	0.000024	-1.000000	0.009552	 | MAPE: 2.058609 | SMAPE: 2.068061 | DA: 50.000000 | Error: 0.095822 | Time: 280.640015secs
+Time: 280.640015
+
+  Elapsed wall clock time = 280.826343 seconds.
+  Elapsed wall clock time = 280.826329 seconds.
+  The number of processes is 10.
+
+Solucion FINAL:
+0.000000 0.000004 -0.711450 0.009442 
+0.000000 0.000099 1.000000 0.009093 
+2.875411 0.000057 0.086837 0.008402 
+0.000000 0.000015 0.396953 0.009222 
+0.000000 0.000000 -0.566025 0.009425 
+0.010607 0.000366 0.359828 0.009194 
+0.000000 0.000648 -0.475224 0.009407 
+0.000000 0.000024 -1.000000 0.009552 
+1.134379 0.000000 -0.925107 0.009206 
+0.000000 0.000424 -0.006595 0.009289 
+01 December 2017 12:52:52 AM

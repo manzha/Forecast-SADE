@@ -1,0 +1,8 @@
+Algoritmos de forecasting
+Utiliza ED
+Ventana de tiempo de 50
+Ciclo de Markov tiene equilibrio DINAMICO
+Temperatura inicial y final fue por sintonización analitica (previo a la ejecución)
+gcc sade.c -o sade.o -lm
+
+Paralelo
